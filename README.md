@@ -27,8 +27,8 @@
 ### 📦 Projects I Made in My Early Days
 
 - 💸 [Personal Expense Tracker (CLI)](https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-)
-- 🗂️ [Task Manager with Priorities](#)
-- 🧠 [Flashcard Quiz System](#)
+- 🗂️ [Task Manager with Priorities](https://github.com/Iceycoast/Contact-book)
+- 🧠 [Flashcard Quiz System](https://github.com/Iceycoast/Flashquiz)
 - 🎓 [Student Report Card Generator](#)
 
 _(More projects coming as I level up...)_
