@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iceycoast/Iceycoast/main/banner.png" alt="Iceycoast banner" />
+</p>
+
 <h1 align="center">Hey, I'm Iceycoast 👋</h1>
 <h3 align="center">🎮 From story-driven games to 💻 code-driven growth — I live for 📈 progress.</h3>
 
