@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Iceycoast 👋</h1>
+<h3 align="center">🎮 From story-driven games to 💻 code-driven growth — I live for 📈 progress.</h3>
 
-<!--
-**Iceycoast/Iceycoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Self-taught Python developer  
+- 💻 Building CLI projects that teach me back  
+- 🧱 Currently learning OOP, file I/O, and JSON  
+- 🚀 Getting ready to dive into Machine Learning  
+- 📍 Based in India
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLI-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📦 Projects I Made in My Early Days
+
+- 💸 [Personal Expense Tracker (CLI)](https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-)
+- 🗂️ [Task Manager with Priorities](#)
+- 🧠 [Flashcard Quiz System](#)
+- 🎓 [Student Report Card Generator](#)
+
+_(More projects coming as I level up...)_
+
+---
+
+### 🎮 When I'm Not Coding...
+
+- Deep into single-player story-driven games 🎮  
+- Lifting heavy things at the gym 🏋️‍♂️  
+- Walking outside to clear my mind 🚶‍♂️  
+- Dreaming about AI and what I’ll build with it 🤖
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iceycoast&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
