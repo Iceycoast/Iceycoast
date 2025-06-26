@@ -24,6 +24,20 @@
 
 ---
 
+### 🧑‍💻 Languages I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3674A4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iceycoast&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 📦 Projects I Made in My Early Days
 
 - 💸 [Personal Expense Tracker (CLI)](https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-)
