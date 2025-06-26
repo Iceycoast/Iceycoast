@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iceycoast&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
