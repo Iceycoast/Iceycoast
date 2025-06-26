@@ -47,7 +47,7 @@
 - 💸 [Personal Expense Tracker (CLI)](https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-)
 - 📒 [Contact Book](https://github.com/Iceycoast/Contact-book)
 - 🧠 [Flashcard Quiz System](https://github.com/Iceycoast/Flashquiz)
-- 🎓 [Student Report Card Generator](#)
+- 📝 [Task Manager](https://github.com/Iceycoast/Task-Manager)
 
 _(More projects coming as I level up...)_
 
