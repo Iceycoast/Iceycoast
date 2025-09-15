@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Iceycoast </h1>
-<h3 align="center">From story-driven games to code-driven progress. I live for growth.</h3>
+<h1 align="center">Amit Bal</h1>
 
 ---
 
@@ -38,4 +37,4 @@
 
 ---
 
-> 💬 *Always open to collaboration, feedback, or just a good tech chat.*
+> *Always open to collaboration, feedback, or just a good tech chat.*
