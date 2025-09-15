@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Backend:** Python, FastAPI  
 **Databases:** SQLite, PostgreSQL, MySQL  
