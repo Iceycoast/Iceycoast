@@ -12,24 +12,17 @@
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-| Technology   | Logo |
-|--------------|------|
-| Python       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> |
-| FastAPI      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30"/> |
-| SQLite       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/> |
-| PostgreSQL   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/> |
-| MySQL        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> |
-| JavaScript   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> |
-| HTML5        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> |
-| CSS3         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> |
-| TailwindCSS  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/> |
-| React        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> |
-| JSON         | <img src="https://www.svgrepo.com/show/353943/json.svg" width="30" height="30"/> |
-| Git          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> |
-| CLI          | <img src="https://img.icons8.com/ios-filled/50/000000/console.png" width="30" height="30"/> |
-| JWT          | <img src="https://jwt.io/img/pic_logo.svg" width="30" height="30"/> |
+| Backend     | Database     | Frontend     | Tools        |
+|-------------|-------------|--------------|--------------|
+| Python      | SQLite      | HTML5        | GitHub       |
+| FastAPI     | PostgreSQL  | CSS3         | VS Code      |
+|             | MySQL       | JavaScript   | CLI          |
+|             |             | TailwindCSS  | JWT          |
+|             |             | React        |              |
+|             |             | JSON         |              |
+
 
 ---
 
