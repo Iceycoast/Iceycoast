@@ -14,14 +14,10 @@
 
 ### 🛠 Tech Stack
 
-| Backend     | Database     | Frontend     | Tools        |
-|-------------|-------------|--------------|--------------|
-| Python      | SQLite      | HTML5        | GitHub       |
-| FastAPI     | PostgreSQL  | CSS3         | VS Code      |
-|             | MySQL       | JavaScript   | CLI          |
-|             |             | TailwindCSS  | JWT          |
-|             |             | React        |              |
-|             |             | JSON         |              |
+**Backend:** Python, FastAPI  
+**Databases:** SQLite, PostgreSQL, MySQL  
+**Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, React  
+**Other:** JSON, Git, CLI, JWT, GitHub, VS Code
 
 
 ---
