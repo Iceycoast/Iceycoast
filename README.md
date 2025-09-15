@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Iceycoast </h1>
-<h3 align="center">From story-driven games to code-driven progress — I live for growth.</h3>
+<h3 align="center">From story-driven games to code-driven progress. I live for growth.</h3>
 
 ---
 
