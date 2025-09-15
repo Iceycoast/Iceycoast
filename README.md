@@ -37,7 +37,7 @@
 ### 📦 Projects
 
 #### 🚧 Work in Progress
-- 🩺 [Medicoast](https://github.com/Iceycoast/Medicoast) — Health tracking app (FastAPI backend + JS frontend)  
+- 🩺 [Medicoast](https://github.com/Iceycoast/Medicoast) — Health tracking app (FastAPI backend + JS frontend) (Backend Completed)
 - 🎭 [Kuch Plan Hai?](https://github.com/Iceycoast/Kuch-Plan-Hai) — Activity planner with AI-based suggestions  
 
 #### ✅ Completed
