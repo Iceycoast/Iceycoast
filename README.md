@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🐍 Backend-focused developer specializing in **FastAPI and modular APIs**  
+- 🐍 Backend-focused developer 
 - 🌐 Building full applications with **HTML, CSS, JavaScript, Tailwind, and React**    
 - 📍 Based in India  
 - 🚀 Always leveling up through real-world projects and resume-ready builds  
