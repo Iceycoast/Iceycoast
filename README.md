@@ -17,7 +17,7 @@
 **Backend:** Python, FastAPI  
 **Databases:** SQLite, PostgreSQL, MySQL  
 **Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, React  
-**Other:** JSON, Git, CLI, JWT, GitHub, VS Code
+**Other:** JSON, Git, CLI, JWT, GitHub
 
 
 ---
