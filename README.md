@@ -1,40 +1,107 @@
 <h1 align="center">Amit Bal</h1>
 
----
-
-### About Me
-
--  Backend-focused developer 
--  Building full applications    
--  Based in India  
--  Always leveling up through real-world projects and resume-ready builds  
+<p align="center">
+Backend Developer • Python • FastAPI • PostgreSQL • SQLAlchemy
+</p>
 
 ---
 
-### Tech Stack
+## About Me
 
-**Backend:** Python, FastAPI  
-**Databases:** SQLite, PostgreSQL, MySQL  
-**Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, React  
-**Other:** JSON, Git, CLI, JWT, GitHub
+I'm a backend developer focused on building scalable, production-style backend applications using Python and FastAPI.
 
+I enjoy designing REST APIs, relational database schemas, recommendation systems, and writing clean, maintainable backend code. My recent work includes deploying production-ready applications with Docker and PostgreSQL while following service-layer architecture and testing best practices.
 
 ---
 
-### Projects
+## Tech Stack
 
-#### Currently Working On 
--  [Medicoast](https://github.com/Iceycoast/Medicoast) — Health tracking app (FastAPI backend + JS frontend) (Backend Completed)
--  [Kuch Plan Hai?](https://github.com/Iceycoast/Kuch-Plan-Hai) — Activity planner with AI-based suggestions  
+### Backend
 
-#### Completed
--  [Weather App (JS)](https://github.com/Iceycoast/JS-prac/tree/main/weather%20app) — Weather data fetched and displayed with JavaScript  
--  [Expense Tracker (CLI)](https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-) — Budget tracking through the terminal  
--  [Contact Book](https://github.com/Iceycoast/Contact-book) — Simple contact manager in Python  
--  [Flashcard Quiz System](https://github.com/Iceycoast/Flashquiz) — CLI quiz tool to test knowledge  
--  [Task Manager](https://github.com/Iceycoast/Task-Manager) — Track daily to-dos from the terminal  
+- Python
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- Pydantic
+- JWT Authentication
 
+### Databases
+
+- PostgreSQL
+- SQLite
+- MySQL
+
+### Frontend
+
+- JavaScript
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Tools & DevOps
+
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- Postman
+- Railway
+- Pytest
 
 ---
 
-> *Always open to collaboration, feedback, or just a good tech chat.*
+## Featured Projects
+
+### 🚀 RecoCore
+
+Production-style ecommerce recommendation engine API.
+
+**Tech:** FastAPI • PostgreSQL • SQLAlchemy • Docker • Railway • Pytest
+
+- Trending recommendation engine
+- Personalized recommendation engine
+- Category affinity scoring
+- Time-decay scoring
+- Live deployment
+
+**Repository:**  
+https://github.com/Iceycoast/RecoCore
+
+---
+
+### 🩺 MediCoast
+
+Modular health tracking backend API.
+
+**Tech:** FastAPI • SQLite • JWT • OpenAI API
+
+- JWT Authentication
+- AI-powered health insights
+- Multiple health trackers
+- Structured service-layer architecture
+
+**Repository:**  
+https://github.com/Iceycoast/Medicoast
+
+---
+
+## Other Projects
+
+- 🌦️ Weather App (JavaScript)
+- 💰 Expense Tracker (CLI)
+- 📇 Contact Book
+- 📝 Flashcard Quiz System
+- ✅ Task Manager
+- 🗺️ Kuch Plan Hai? *(AI Activity Planner - In Progress)*
+
+---
+
+## Connect
+
+- GitHub: https://github.com/Iceycoast
+- LinkedIn: https://linkedin.com/in/amitbal-
+
+---
+
+⭐ Always open to collaborating on backend projects and learning new technologies.
