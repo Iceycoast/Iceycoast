@@ -13,41 +13,19 @@ I'm a backend developer focused on building scalable, production-style backend a
 I enjoy designing REST APIs, relational database schemas, recommendation systems, and writing clean, maintainable backend code. My recent work includes deploying production-ready applications with Docker and PostgreSQL while following service-layer architecture and testing best practices.
 
 ---
-
 ## Tech Stack
 
-### Backend
+**Backend**  
+Python • FastAPI • REST APIs • SQLAlchemy • Pydantic • JWT Authentication
 
-- Python
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- Pydantic
-- JWT Authentication
+**Databases**  
+PostgreSQL • SQLite • MySQL
 
-### Databases
+**Frontend**  
+JavaScript • React • HTML5 • CSS3 • Tailwind CSS
 
-- PostgreSQL
-- SQLite
-- MySQL
-
-### Frontend
-
-- JavaScript
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Tools & DevOps
-
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- Postman
-- Railway
-- Pytest
+**Tools & DevOps**  
+Docker • Docker Compose • Git • GitHub • Postman • Railway • Pytest
 
 ---
 
